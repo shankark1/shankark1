@@ -1,48 +1,95 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%"/>
+  <img src="./assets/hero.svg" width="100%" />
 </p>
 
+<div align="center">
+
+# Shankar K
+
+### Full-Stack Developer • AI Engineer
+
+Building scalable software, intelligent systems, and modern developer experiences.
+
+</div>
+
+---
+
+## PROFILE
+
+I build production-grade applications across AI, backend engineering, full-stack web development, and developer tooling. My approach prioritizes clean architecture, performance, and practical problem solving.
+
+---
+
 <p align="center">
-  Building scalable software, intelligent systems, and modern developer experiences.
+  <img src="./assets/divider.svg" width="100%" />
+</p>
+
+## TECH STACK
+
+<p align="center">
+  <img src="./assets/tech-panel.svg" width="100%" />
+</p>
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,c,cpp" />
+</p>
+
+### Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,django,flutter" />
+</p>
+
+### Backend • Database • Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,docker,git,github,figma,vscode" />
 </p>
 
 ---
 
-## About
-
-I build production-focused applications across AI, backend engineering, and modern full-stack development. My interest lies in creating software that is scalable, practical, and thoughtfully designed.
+## FEATURED WORK
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%"/>
+  <img src="./assets/projects.svg" width="100%" />
 </p>
 
-## Technology Stack
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="./assets/tech-panel.svg" width="100%"/>
-</p>
+### Project One
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,c,cpp,react,nextjs,flask,fastapi,django,flutter,nodejs,express,postgres,prisma,docker,git,github,figma,vscode" />
-</p>
+Brief one-line description.
+
+`Python` `Next.js` `AI`
+
+</td>
+<td width="50%">
+
+### Project Two
+
+Brief one-line description.
+
+`FastAPI` `React` `Docker`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+## ENGINEERING METRICS
 
 <p align="center">
-  <img src="./assets/projects.svg" width="100%"/>
+  <img src="./assets/stats-frame.svg" width="100%" />
 </p>
 
-Replace **Project One** and **Project Two** with your actual repositories.
-
----
-
-## GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankark1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankark1&layout=compact&theme=transparent&hide_border=true" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shankark1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankark1&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -51,7 +98,7 @@ Replace **Project One** and **Project Two** with your actual repositories.
 
 ---
 
-## Contribution Activity
+## CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shankark1&bg_color=09090B&color=A1A1AA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
@@ -59,15 +106,24 @@ Replace **Project One** and **Project Two** with your actual repositories.
 
 ---
 
-## Contribution Snake
+## CONTRIBUTION SNAKE
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake-dark.svg"/>
     <img src="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
+---
+
 <p align="center">
-  <img src="./assets/footer.svg" width="100%"/>
+  <img src="./assets/footer.svg" width="100%" />
 </p>
+
+<div align="center">
+
+**Engineering software with performance, scalability, and simplicity.**
+
+</div>
