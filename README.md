@@ -1,71 +1,53 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,35:111827,70:312E81,100:7C3AED&text=Shankar%20K&fontColor=FFFFFF&fontSize=52&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=58&animation=fadeIn"/>
+<img src="./assets/banner.svg" width="100%" alt="Shankar K"/>
 
-### Engineering software with intelligence, scalability, and elegant user experiences.
+<br/>
 
-<br>
+<h1>Shankar K</h1>
 
-<img src="https://komarev.com/ghpvc/?username=shankark1&style=flat-square&color=7C3AED"/>
+<p><strong>Full-Stack Developer</strong> · <strong>AI Engineer</strong></p>
+
+<p>
+Engineering intelligent software, scalable systems, and modern developer experiences.
+</p>
 
 </div>
 
 ---
 
-# PROFILE
-
-<img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankark1&layout=compact&theme=transparent&hide_border=true"/>
-
-I build modern software across **AI, backend architecture, full-stack web development, and developer tooling**. My work focuses on creating systems that are practical, scalable, and designed with strong product thinking.
-
-<br clear="right"/>
-
----
-
-# TECHNOLOGY
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,c,cpp"/>
-</p>
-
-### Frameworks
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,django,flutter"/>
-</p>
-
-### Backend · Database · DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,docker,git,github,figma,vscode"/>
-</p>
-
----
-
-# FEATURED WORK
+## SYSTEM PROFILE
 
 <table>
 <tr>
 <td width="50%">
 
-### AI Applications
+**Role**
 
-Intelligent workflows, automation, and modern developer experiences.
-
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi"/>
+Full-Stack Developer
 
 </td>
 <td width="50%">
 
-### Full-Stack Systems
+**Specialization**
 
-Scalable web applications built with modern architecture.
+AI · Backend · Systems
 
-<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql"/>
+</td>
+</tr>
+<tr>
+<td>
+
+**Primary Stack**
+
+Python · TypeScript
+
+</td>
+<td>
+
+**Architecture**
+
+Modern Web & APIs
 
 </td>
 </tr>
@@ -73,7 +55,110 @@ Scalable web applications built with modern architecture.
 
 ---
 
-# GITHUB ANALYTICS
+## ENGINEERING PHILOSOPHY
+
+I enjoy building software where product thinking and engineering meet. My focus is creating practical systems that are scalable, maintainable, and designed around real-world problems rather than demonstration projects.
+
+---
+
+## TECHNOLOGY MATRIX
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,c,cpp"/>
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,django,flutter"/>
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma"/>
+</p>
+
+### Dev Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma"/>
+</p>
+
+---
+
+## CAPABILITIES
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### AI Engineering
+
+Python
+
+FastAPI
+
+Flask
+
+</td>
+<td width="33%" align="center">
+
+### Full Stack
+
+Next.js
+
+React
+
+TypeScript
+
+</td>
+<td width="33%" align="center">
+
+### Systems
+
+PostgreSQL
+
+Docker
+
+Git
+
+</td>
+</tr>
+</table>
+
+---
+
+## FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### AI Applications
+
+Intelligent automation, developer tooling, and modern AI workflows.
+
+**Core:** Python · FastAPI · PostgreSQL
+
+</td>
+<td width="50%">
+
+### Full-Stack Systems
+
+Scalable web applications with robust backend architecture.
+
+**Core:** Next.js · TypeScript · Docker
+
+</td>
+</tr>
+</table>
+
+---
+
+## LIVE ANALYTICS
 
 <div align="center">
 
@@ -85,81 +170,48 @@ Scalable web applications built with modern architecture.
 
 ---
 
-# ACTIVITY GRAPH
+## CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shankark1&bg_color=050816&color=CBD5E1&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shankark1&bg_color=04050A&color=E5E7EB&line=8B5CF6&point=A78BFA&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# CONTRIBUTION SNAKE
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-# ENGINEERING DASHBOARD
-
-<div align="center">
-
-| Domain | Progress |
-|------|----------|
-| **AI Systems** | █████████░ 90% |
-| **Backend Engineering** | ████████░░ 82% |
-| **Full-Stack Development** | ██████████ 95% |
-| **Mobile Development** | ██████░░░░ 60% |
-
-</div>
-
-<br>
+## ENGINEERING DASHBOARD
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="56"/>
+**AI Engineering**
 
-**AI**
-
-Intelligent systems
+█████████░ 90%
 
 </td>
-<td align="center" width="25%">
+<td width="50%">
 
-<img src="https://img.icons8.com/fluency/96/server.png" width="56"/>
+**Backend Systems**
 
-**Backend**
-
-Scalable APIs
+████████░░ 85%
 
 </td>
-<td align="center" width="25%">
+</tr>
+<tr>
+<td>
 
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="56"/>
+**Full-Stack Development**
 
-**Frontend**
-
-Modern UI
+██████████ 95%
 
 </td>
-<td align="center" width="25%">
+<td>
 
-<img src="https://img.icons8.com/fluency/96/maintenance.png" width="56"/>
+**Mobile Development**
 
-**DevOps**
-
-Automation
+███████░░░ 70%
 
 </td>
 </tr>
@@ -167,24 +219,32 @@ Automation
 
 ---
 
-# CONNECT
+## CONTRIBUTION SNAKE
 
 <div align="center">
 
-<a href="mailto:shankark1500@gmail.com">
-  <img src="https://img.shields.io/badge/Reach%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shankark1">
-  <img src="https://img.shields.io/badge/Explore%20Projects-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</picture>
 
 </div>
 
 ---
 
+## CURRENT DIRECTION
+
+- Building intelligent software ecosystems
+- Designing scalable backend architecture
+- Exploring AI infrastructure & developer tooling
+- Creating high-quality open-source solutions
+
+---
+
 <div align="center">
 
-### *Building software that feels as good to use as it is to engineer.*
+**Bengaluru, India**
+
+*"Elegance is achieved when complexity becomes invisible."*
 
 </div>
