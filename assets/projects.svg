@@ -1,0 +1,55 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#18181B"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .t{font:700 22px Inter,Arial;fill:#FAFAFA}
+    .d{font:400 14px Inter,Arial;fill:#A1A1AA}
+    .tag{font:600 11px Inter,Arial;fill:#D4D4D8}
+    .shine{animation:move 8s linear infinite}
+    @keyframes move{
+      from{transform:translateX(-180px)}
+      to{transform:translateX(500px)}
+    }
+  </style>
+
+  <rect width="1280" height="360" rx="24" fill="#09090B"/>
+
+  <g transform="translate(40 40)">
+    <rect width="560" height="280" rx="22" fill="url(#card)" stroke="#27272A"/>
+    <rect class="shine" x="-160" width="120" height="280"
+          fill="rgba(255,255,255,.08)"/>
+    <text x="32" y="48" class="t">Project One</text>
+    <text x="32" y="76" class="d">Replace with your flagship project</text>
+
+    <g transform="translate(32 220)">
+      <rect width="78" height="26" rx="13" fill="#27272A"/>
+      <text x="39" y="17" text-anchor="middle" class="tag">Python</text>
+      <rect x="90" width="78" height="26" rx="13" fill="#27272A"/>
+      <text x="129" y="17" text-anchor="middle" class="tag">Next.js</text>
+      <rect x="180" width="78" height="26" rx="13" fill="#27272A"/>
+      <text x="219" y="17" text-anchor="middle" class="tag">AI</text>
+    </g>
+  </g>
+
+  <g transform="translate(680 40)">
+    <rect width="560" height="280" rx="22" fill="url(#card)" stroke="#27272A"/>
+    <rect class="shine" x="-160" width="120" height="280"
+          fill="rgba(255,255,255,.08)"/>
+    <text x="32" y="48" class="t">Project Two</text>
+    <text x="32" y="76" class="d">Replace with another production project</text>
+
+    <g transform="translate(32 220)">
+      <rect width="78" height="26" rx="13" fill="#27272A"/>
+      <text x="39" y="17" text-anchor="middle" class="tag">FastAPI</text>
+      <rect x="90" width="78" height="26" rx="13" fill="#27272A"/>
+      <text x="129" y="17" text-anchor="middle" class="tag">React</text>
+      <rect x="180" width="78" height="26" rx="13" fill="#27272A"/>
+      <text x="219" y="17" text-anchor="middle" class="tag">Docker</text>
+    </g>
+  </g>
+</svg>
