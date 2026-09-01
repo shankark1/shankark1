@@ -1,0 +1,23 @@
+<svg width="1280" height="220" viewBox="0 0 1280 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .scan{animation:scan 10s linear infinite}
+    @keyframes scan{
+      from{transform:translateY(-220px)}
+      to{transform:translateY(220px)}
+    }
+  </style>
+
+  <rect width="1280" height="220" rx="22" fill="#09090B"/>
+  <rect x="14" y="14" width="1252" height="192" rx="16"
+        fill="rgba(255,255,255,.03)"
+        stroke="rgba(255,255,255,.08)"/>
+
+  <rect class="scan" width="1280" height="40" fill="rgba(124,58,237,.08)"/>
+
+  <text x="40" y="36"
+        font-family="Inter,Arial"
+        font-size="14"
+        fill="#A1A1AA">
+    GITHUB ANALYTICS
+  </text>
+</svg>
