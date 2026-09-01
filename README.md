@@ -57,48 +57,24 @@ Bengaluru
 
 ---
 
-## TECHNOLOGY MATRIX
+#  TECHNOLOGY MATRIX
 
 ### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,dart,html,css,c,cpp&perline=8" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,c,cpp&perline=7"/>
 </p>
 
-### Frontend
+### Frameworks
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&perline=4" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,django,flutter&perline=6"/>
 </p>
 
-### Backend
+### Backend & Database
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django&perline=5" />
-</p>
-
-### Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase&perline=5" />
-</p>
-
-### Cloud & Deployment
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render,docker&perline=5" />
-</p>
-
-### Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&perline=5" />
-</p>
-
-### Security
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,docker,git,github,vscode,figma&perline=9"/>
 </p>
 
 ---
@@ -223,6 +199,17 @@ Scalable web applications with clean architecture and responsive experiences.
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shankark1&bg_color=04050A&color=E5E7EB&line=8B5CF6&point=A78BFA&area=true&hide_border=true"/>
 
 </div>
+
+---
+
+#  DEVELOPMENT DASHBOARD
+
+| Domain | Status |
+|:--|:--:|
+| AI Engineering | █████████░ 91% |
+| Backend Systems | ████████░░ 86% |
+| Full Stack Development | ██████████ 95% |
+| Mobile Development | ██████░░░░ 70% |
 
 ---
 
