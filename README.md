@@ -1,224 +1,89 @@
 <div align="center">
 
-# Shankar K
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,30:111827,70:312E81,100:7C3AED&text=Shankar%20K&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=Full-Stack%20Developer%20•%20AI%20Engineer&descAlignY=60&animation=fadeIn"/>
 
-### Full-Stack Developer · AI Engineer
+<br/>
 
-Building intelligent software, scalable backend systems, and modern developer experiences.
+Building intelligent software, scalable systems, and modern developer experiences.
 
-<img src="https://komarev.com/ghpvc/?username=shankark1&style=flat-square&color=6D28D9"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Full--Stack-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-1D4ED8?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
 ---
 
-#  SYSTEM OVERVIEW
+# Engineering Philosophy
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-## 💻
-
-**Role**
-
-Full-Stack
-
-</td>
-<td align="center" width="25%">
-
-## 🧠
-
-**Focus**
-
-AI Systems
-
-</td>
-<td align="center" width="25%">
-
-## ⚙️
-
-**Stack**
-
-Python · TS
-
-</td>
-<td align="center" width="25%">
-
-## 📍
-
-**Base**
-
-Bengaluru
-
-</td>
-</tr>
-</table>
+I enjoy building software that combines thoughtful user experience with robust engineering. My focus spans intelligent applications, backend systems, scalable APIs, and developer tooling designed for practical use.
 
 ---
 
-#  TECHNOLOGY MATRIX
+# Technology Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,c,cpp&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,c,cpp"/>
 </p>
 
 ### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,django,flutter&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,django,flutter"/>
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,docker,git,github,vscode,figma&perline=9"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode"/>
 </p>
 
 ---
 
-#  ENGINEERING CAPABILITIES
-
-<table>
-<tr>
-<td width="50%">
-
-### AI Engineering
-
-Python
-
-FastAPI
-
-Flask
-
-OpenAI APIs
-
-</td>
-<td width="50%">
-
-### Full Stack
-
-Next.js
-
-React
-
-TypeScript
-
-Modern UI Architecture
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### Backend
-
-Node.js
-
-Express
-
-PostgreSQL
-
-REST APIs
-
-</td>
-<td>
-
-### Systems
-
-Docker
-
-Git
-
-CI/CD
-
-Scalable Infrastructure
-
-</td>
-</tr>
-</table>
-
----
-
-#  FEATURED WORK
-
-<table>
-<tr>
-<td width="50%">
-
-### AI Developer Platform
-
-Intelligent automation, productivity workflows, and backend AI systems.
-
-`Python` `FastAPI` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-### Modern Web System
-
-Scalable web applications with clean architecture and responsive experiences.
-
-`Next.js` `TypeScript` `Docker`
-
-</td>
-</tr>
-</table>
-
----
-
-#  GITHUB ANALYTICS
+# GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shankark1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shankark1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=shankark1&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankark1&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shankark1&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-#  LANGUAGE DISTRIBUTION
+# Contribution Activity
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankark1&layout=compact&theme=transparent&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shankark1&bg_color=09090B&color=A1A1AA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-#  CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shankark1&bg_color=04050A&color=E5E7EB&line=8B5CF6&point=A78BFA&area=true&hide_border=true"/>
-
-</div>
-
----
-
-#  DEVELOPMENT DASHBOARD
-
-| Domain | Status |
-|:--|:--:|
-| AI Engineering | █████████░ 91% |
-| Backend Systems | ████████░░ 86% |
-| Full Stack Development | ██████████ 95% |
-| Mobile Development | ██████░░░░ 70% |
-
----
-
-#  CONTRIBUTION SNAKE
+# Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake-dark.svg"/>
   <img src="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake.svg"/>
 </picture>
 
@@ -226,36 +91,28 @@ Scalable web applications with clean architecture and responsive experiences.
 
 ---
 
-#  CURRENT INTERESTS
+# Current Focus
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="50%">
 
-### 🤖
+### Building
 
-AI Systems
-
-</td>
-<td align="center" width="25%">
-
-### 🌐
-
-Backend APIs
+- Scalable Full-Stack Applications
+- AI-powered Developer Tools
+- Backend Architecture
+- Intelligent Automation
 
 </td>
-<td align="center" width="25%">
+<td width="50%">
 
-### ⚡
+### Exploring
 
-Developer Tools
-
-</td>
-<td align="center" width="25%">
-
-### 📊
-
-Scalable Architecture
+- Distributed Systems
+- FastAPI & Django
+- Flutter Ecosystem
+- Performance Engineering
 
 </td>
 </tr>
@@ -263,8 +120,24 @@ Scalable Architecture
 
 ---
 
+# Connect
+
 <div align="center">
 
-### Engineering software where elegance emerges from simplicity.
+<a href="mailto:shankark1500@gmail.com">
+<img src="https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shankark1">
+<img src="https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *Engineering elegant software with performance, scalability, and simplicity.*
 
 </div>
