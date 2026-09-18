@@ -297,31 +297,29 @@ Designing and building production-oriented AI products with emphasis on backend 
 
 ## GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shankark1&theme=tokyonight&no-frame=true&row=2&column=4" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shankark1&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
+</p>
 
 ---
 
 ## Contribution Activity
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shankark1&theme=tokyo-night&hide_border=true&bg_color=00000000&color=8B5CF6&line=7C3AED&point=C4B5FD" />
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shankark1&theme=tokyo-night&hide_border=true&bg_color=00000000&color=8B5CF6&line=7C3AED&point=C4B5FD&area=true"/>
+</p>
 
 ---
 
 ## Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
 
 ---
 
