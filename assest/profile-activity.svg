@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" rx="24" fill="#0D1117"/>
+  <text x="600" y="210" font-size="32" font-family="Arial" fill="#8B5CF6" text-anchor="middle">
+    Generating Activity Graph...
+  </text>
+</svg>
