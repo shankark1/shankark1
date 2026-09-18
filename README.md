@@ -281,46 +281,53 @@ Designing and building production-oriented AI products with emphasis on backend 
 
 ---
 
+---
+
 # GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shankark1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=00000000"/>
+<img height="170" src="https://streak-stats.demolab.com?user=shankark1&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankark1&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-## GitHub Trophies
+# Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shankark1&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
+<div align="center">
 
----
+<img width="100%" src="./profile-activity.svg"/>
 
-## Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shankark1&theme=tokyo-night&hide_border=true&bg_color=00000000&color=8B5CF6&line=7C3AED&point=C4B5FD&area=true"/>
-</p>
+</div>
 
 ---
 
-## Contribution Snake
+# GitHub Trophies
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
+<div align="center">
 
+<img width="100%" src="./github-trophies.svg"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="./github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
 ---
 
 # Current Focus
