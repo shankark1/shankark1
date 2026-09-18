@@ -1,11 +1,8 @@
-
-# README.md
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,35:6D28D9,70:7C3AED,100:312E81&text=SHANKAR%20K&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=Software+Engineering+•+AI+Engineering+•+Product+Development;Building+Scalable+Backend+Systems+with+FastAPI;Full+Stack+Developer+focused+on+Modern+Architecture;Designing+AI+Products+with+Production+Mindset"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Software+Engineering+•+AI+Engineering+•+Product+Development;Building+Scalable+Backend+Systems+with+FastAPI;Full+Stack+Developer+focused+on+Modern+Architecture;Designing+AI+Products+with+Production+Mindset"/>
 
 <br>
 
@@ -35,7 +32,9 @@
 
 # About
 
-Software Engineer specializing in **backend architecture, AI-powered applications, and full stack product engineering**. I build scalable systems with an engineering-first mindset, focusing on security, performance, maintainability, and production-quality software.
+Software Engineer specializing in **Backend Engineering, AI Systems, and Full Stack Product Development**.
+
+I design scalable backend architectures using **Python, FastAPI, PostgreSQL, and Supabase**, while building modern user experiences with **React + TypeScript**. My focus is production-grade software: clean architecture, security, performance optimization, and AI-powered products.
 
 ### Open To
 
@@ -58,7 +57,7 @@ Software Engineer specializing in **backend architecture, AI-powered application
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,figma&theme=dark"/>
 </p>
 
 ### Backend & Database
@@ -67,7 +66,7 @@ Software Engineer specializing in **backend architecture, AI-powered application
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,supabase,mysql,firebase&theme=dark"/>
 </p>
 
-### Cloud & DevOps
+### Cloud • DevOps • Tooling
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,cloudflare,vercel,netlify,postman,vscode&theme=dark"/>
@@ -77,14 +76,14 @@ Software Engineer specializing in **backend architecture, AI-powered application
 
 # AI / ML Expertise
 
-| Domain | Level | Details |
+| Domain | Proficiency | Details |
 |---|---|---|
 | LLM Engineering | Advanced | Prompt engineering, RAG, tool calling |
 | AI Product Development | Advanced | Production AI SaaS architecture |
-| Backend AI APIs | Advanced | FastAPI async inference services |
+| Backend AI APIs | Advanced | Async FastAPI inference services |
 | Retrieval Systems | Advanced | Embeddings & semantic search |
 | Automation | Advanced | Workflow orchestration |
-| NLP | Intermediate | Text processing & embeddings |
+| NLP | Intermediate | Text analysis & embeddings |
 | Computer Vision | Intermediate | Image generation pipelines |
 
 ---
@@ -94,22 +93,24 @@ Software Engineer specializing in **backend architecture, AI-powered application
 <details>
 <summary><b>VeksMark — AI Growth Platform</b></summary>
 
-Enterprise SaaS for creators and businesses.
+Enterprise SaaS platform combining AI automation, digital marketing workflows, subscriptions, analytics, and secure backend architecture.
 
 | Category | Details |
 |---|---|
-| Stack | FastAPI · React · TypeScript · PostgreSQL |
-| Scale | Multi-tenant |
-| Security | JWT · RLS · Rate limiting |
-| Impact | AI-powered creator platform |
-| Repository | `github.com/shankark1/veksmark` |
+| **Stack** | FastAPI · React · TypeScript · PostgreSQL |
+| **Scale** | Multi-tenant SaaS |
+| **Performance** | Async API architecture |
+| **Security** | JWT · RLS · Rate Limiting |
+| **Impact** | AI-powered creator platform |
+| **Repository** | `github.com/shankark1/veksmark` |
 
 **Highlights**
 
-- Modular backend
-- Subscription system
+- Modular backend architecture
+- Subscription billing
 - AI content generation
 - Secure authentication
+- Production REST APIs
 
 </details>
 
@@ -118,13 +119,14 @@ Enterprise SaaS for creators and businesses.
 <details>
 <summary><b>FlowViral — AI Content Intelligence</b></summary>
 
-AI platform for viral content optimization.
+AI platform that generates scripts, titles, descriptions, and publishing workflows for creators.
 
 | Category | Details |
 |---|---|
-| Stack | Python · FastAPI · React |
-| Performance | Async generation pipeline |
-| Impact | Creator productivity |
+| **Stack** | Python · FastAPI · React |
+| **Performance** | Async generation pipeline |
+| **Security** | Authenticated AI APIs |
+| **Impact** | Creator productivity automation |
 
 </details>
 
@@ -133,13 +135,14 @@ AI platform for viral content optimization.
 <details>
 <summary><b>B2B Art Management System</b></summary>
 
-Enterprise artwork ordering ecosystem.
+Enterprise artwork ordering ecosystem connecting studios, artists, admins, and payment workflows.
 
 | Category | Details |
 |---|---|
-| Stack | FastAPI · Supabase · Razorpay |
-| Security | Role-based access |
-| Scale | Studio + Artist workflow |
+| **Stack** | FastAPI · Supabase · Razorpay |
+| **Scale** | Multi-role workflow |
+| **Security** | Role-based access control |
+| **Impact** | Digital business operations |
 
 </details>
 
@@ -148,13 +151,13 @@ Enterprise artwork ordering ecosystem.
 <details>
 <summary><b>TrackUP — Offline Productivity App</b></summary>
 
-Privacy-first productivity application.
+Privacy-first productivity application with encrypted local storage and offline-first architecture.
 
 | Category | Details |
 |---|---|
-| Stack | Flutter |
-| Storage | Local encrypted backups |
-| Focus | Offline-first architecture |
+| **Stack** | Flutter |
+| **Storage** | AES encrypted backups |
+| **Focus** | Offline productivity |
 
 </details>
 
@@ -168,16 +171,21 @@ Privacy-first productivity application.
 
 **2025 — Present**
 
+Designing production-ready AI products with emphasis on scalable backend systems and enterprise software architecture.
+
+### Scope of Work
+
 - Backend architecture with FastAPI
-- PostgreSQL database design
-- React + TypeScript frontend
+- PostgreSQL & Supabase database design
+- React + TypeScript frontend development
 - AI workflow integration
-- Authentication & API security
-- Production deployment pipelines
+- Authentication & authorization
+- Performance optimization
+- API security
 
 **Skills**
 
-`FastAPI` `Python` `React` `TypeScript` `PostgreSQL` `Supabase`
+`Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `Supabase`
 
 ---
 
@@ -187,7 +195,7 @@ Privacy-first productivity application.
 
 | Recognition | Details |
 |---|---|
-| AI Product Builder | Multiple production-ready AI SaaS projects |
+| AI Product Builder | Built multiple end-to-end AI SaaS projects |
 | Backend Engineering | Enterprise FastAPI architecture |
 | Full Stack Development | Modern React ecosystem |
 | Product Engineering | End-to-end software architecture |
@@ -220,10 +228,13 @@ Privacy-first productivity application.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Coding-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Skills-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Competitive-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/)
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Coding-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Skills-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Competitive-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 </div>
 
@@ -243,16 +254,6 @@ Privacy-first productivity application.
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="./assets/github-trophies.svg" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
@@ -267,7 +268,7 @@ Privacy-first productivity application.
 
 <div align="center">
 
-<img width="100%" src="./assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img width="100%" src="https://raw.githubusercontent.com/shankark1/shankark1/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -288,8 +289,8 @@ Building:
   - Developer Tools
 
 Exploring:
-  - MLOps
   - Kubernetes
+  - MLOps
   - Multi-Agent Systems
 
 OpenTo:
